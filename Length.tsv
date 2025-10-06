@@ -1,3 +1,3 @@
-Name	Factor (can be a fraction)	based on ft or m
-Meter	1	m
-ångström	1e-10	m
+Name	Symbol	Factor (can be a fraction)	Based on ft or m
+Meter	m	1	m
+ångström	Å	1e-10	m
