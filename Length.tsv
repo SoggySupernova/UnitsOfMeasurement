@@ -1,3 +1,4 @@
-Name	Symbol	Factor (can be a fraction)	Based on ft or m
+Name, variants separated with |	Symbol	Factor (can be a fraction)	Based on ft or m
 Meter	m	1	m
 ångström	Å	1e-10	m
+attometer|attometre	am	1e-18	m
