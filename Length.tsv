@@ -3,8 +3,10 @@ meter	m	1	m	exact	todo: add source
 ångström|angstrom	Å	1e-10	m	exact	todo: add source
 astronomical unit	au	149597870700	m	exact	todo: add source
 attometer|attometre	am	1e-18	m	exact	todo: add source
-barleycorn	H	0.03125	ft	exact	todo: add source
+barleycorn	todo: what should I put for no symbol?	0.03125	ft	exact	todo: add source
 bohr	a₀	5.2917721054482e-11	m	approximate	todo: add source
 cable length (imperial)	todo: what should I put for no symbol?	608	ft	exact	todo: add source
 cable length (international)	todo: what should I put for no symbol?	185.2	m	exact	todo: add source
 cable length (US)	todo: what should I put for no symbol?	720	ft	exact	todo: add source
+chain (Gunter's; Surveyor's)	ch	66	ft	exact	todo: add source
+cubit	todo: what should I put for no symbol?	1.5	ft	approximate	todo: add source
