@@ -1,5 +1,5 @@
-Name, variants separated with |	Symbol	Factor (can be a fraction)	Based on ft or m
-Meter	m	1	m
-ångström	Å	1e-10	m
-attometer|attometre	am	1e-18	m
-barleycorn	H	1/24	f
+Name, variants separated with |	Symbol	Factor (can be a fraction)	Based on ft or m	approximate or exact	Source
+Meter	m	1	m	exact	todo: add source
+ångström	Å	1e-10	m	exact	todo: add source
+attometer|attometre	am	1e-18	m	exact	todo: add source
+barleycorn	H	1/32	ft	exactt	todo: add source
