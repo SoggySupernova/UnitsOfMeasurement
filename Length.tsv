@@ -10,3 +10,6 @@ cable length (international)		185.2	m	exact	todo: add source
 cable length (US)		720	ft	exact	todo: add source
 chain (Gunter's; Surveyor's)	ch	66	ft	exact	todo: add source
 cubit		1.5	ft	approximate	todo: add source
+ell	ell	3.75	ft	exact	todo: add source
+fathom	ftm	6	ft	exact	todo: add source
+femtometer|femtometre|fermi	1e-15	m	exact	todo: add source
