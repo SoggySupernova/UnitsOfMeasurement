@@ -15,9 +15,9 @@ The common symbol of the unit. Will be blank if there is no common symbol.
 
 The factor of the unit compared to the base unit (except for length, see below). The base unit is the first unit listed in each file. This can have scientific notation (for example 1e40, or 1e-20) or fractions (for example 355/113).
 
-### `ft/m` (Length Only)
+### `ft/m/pt` (Length Only)
 
-Determines if the factor is based on the meter (m) or the foot (ft).
+Determines if the factor is based on the meter (m), the foot (ft), or the point (pt).
 
 #### Why?
 todo: explain
