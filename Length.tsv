@@ -1,4 +1,4 @@
-name	symbol	factor	ft/m	approximate/exact	source
+name	symbol	factor	ft/m/pt	approximate/exact	source
 meter	m	1	m	exact	todo: add source
 ångström|angstrom	Å	1e-10	m	exact	todo: add source
 astronomical unit	au	149597870700	m	exact	todo: add source
