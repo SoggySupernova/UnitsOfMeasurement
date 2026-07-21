@@ -1,5 +1,6 @@
 # UnitsOfMeasurement
-An extensive list of units of measurement and their conversion factors
+An extensive list of units of measurement and their conversion factors<br>
+The conversion units follow a star topology as opposed to a loop or web, with one unit, typically the SI unit, as the center. This allows O(n) conversion factors while minimizing rounding errors. In some dimensions, there are more than one center. For example, the length dimension has a 'meters' and a 'feet' center.  This is because a foot can be defined as many different lengths, and I cannot be certain which foot any unit is referring to.
 
 ## Table Documentation
 
