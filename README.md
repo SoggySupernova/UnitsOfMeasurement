@@ -46,3 +46,6 @@ https://en.m.wikipedia.org/wiki/System_of_units_of_measurement
 https://en.wikipedia.org/wiki/Medieval_weights_and_measures
 
 https://commons.wikimedia.org/wiki/File:English_Length_Units_Graph.svg
+
+https://en.wikipedia.org/wiki/Mesures_usuelles<br>
+Standalone pages may have more information than aggregated lists
